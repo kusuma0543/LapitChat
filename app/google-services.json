@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "572633520687",
+    "firebase_url": "https://projectchat-1c7c0.firebaseio.com",
+    "project_id": "projectchat-1c7c0",
+    "storage_bucket": "projectchat-1c7c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572633520687:android:6f8458c5ec08e300",
+        "android_client_info": {
+          "package_name": "com.quaticstech.lapitmine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572633520687-dots1d7v072go0bmnl020lf8m1aju1ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quaticstech.lapitmine",
+            "certificate_hash": "e59d4a1d2472ce4b99c6d639b980becbfb3acff6"
+          }
+        },
+        {
+          "client_id": "572633520687-8jiiugtlbarm18aqoakvphvbtt2a9tnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1SCJhm567RAZWzAxSz03NpJBR8i2_U8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572633520687-8jiiugtlbarm18aqoakvphvbtt2a9tnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
